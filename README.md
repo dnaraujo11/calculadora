@@ -1,2 +1,2 @@
 # calculadora
-Calculadora em python, criado por @ondanielaraujo
+Calculadora em python, criado por @dnaraujo11
